@@ -14,11 +14,9 @@
  [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 
-#### npm
+#### node.js
 
-If you got npm 
 
 ```bash
-npm i
-npm run start
+node index.js
 ```
