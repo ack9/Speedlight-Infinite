@@ -8,7 +8,9 @@
 
 ## Deployment
 > [!IMPORTANT]
-> You cannot deploy to Static Webhosts Like: Netlify, GithubPages, Cloudflare Pages 
+> You cannot deploy to Static Webhosts Like: Netlify, GithubPages, Cloudflare Pages
+
+ 
  [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 
