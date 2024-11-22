@@ -7,7 +7,7 @@
 - This Is A Version one I will readvance every thing in v2
 
 ## Deployment
-- You cannot deploy to Static Webhosts Like: Netlify, GithubPages, Cloudflare Pages
+- You cannot deploy to Static Webhosts Like: Netlify, GithubPages, Cloudflare Pages \n
  [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 
