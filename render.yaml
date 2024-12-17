@@ -1,5 +1,6 @@
 services:
     type: web 
     plan: free
+    runtime: static
     name: lightspeed filter agent
     startCommand: node index.js
